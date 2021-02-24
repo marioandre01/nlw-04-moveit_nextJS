@@ -23,7 +23,7 @@
 
 Este projeto está sendo desenvolvido durante a 4º edição do evento Next Level Week - nlw-04 da Rocketseat. O MoveIt é uma aplicação...
 
-<!-- O resultado da aplicação pode ser acessado através da seguinte URL: [https://onepiece-quiz-imersao-react-next-js.marioandre01.vercel.app/](https://onepiece-quiz-imersao-react-next-js.marioandre01.vercel.app/) -->
+O resultado da aplicação pode ser acessado através da seguinte URL: [https://nlw-04-moveit-next-js.vercel.app/](https://nlw-04-moveit-next-js.vercel.app/)
 
 
 ## 📋 Tecnologias
