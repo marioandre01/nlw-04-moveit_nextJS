@@ -7,7 +7,9 @@
 
 
 <h1 align="center">
-    nlw-04-moveit_nextJS
+  <img alt="moveit" title="moveit" src="public/logo-moveit.png" />
+  <br>
+  nlw-04-moveit_nextJS
 </h1>
 
 <p align="center"> 
@@ -21,7 +23,10 @@
 
 ## 💻 Projeto
 
-Este projeto está sendo desenvolvido durante a 4º edição do evento Next Level Week - nlw-04 da Rocketseat. O MoveIt é uma aplicação...
+Este projeto foi desenvolvido durante a [4º edição do evento Next Level Week - NLW-04](https://nextlevelweek.com/) da [Rocketseat](https://rocketseat.com.br/) na trilha de React que ocorreu entre os dias 22 a 28 de fevereiro. No qual foi ministrado pelo instrutor Diego Fernandes. Para essa imersão foi proposto fazer o **move.it**, que é uma aplicação que utiliza a técnica de Pomodoro para incentivar a realização de exercícios físicos para quem fica muito tempo na frente do computador. Nesse cenário o uso do app seria destinado mais para Devs.
+
+A Técnica de Pomodoro é um método de gerenciamento de tempo criado por Francesco Cirillo no final dos anos 1980. A técnica consiste no uso de um cronômetro para dividir a tarefa a ser feita em períodos de 25 minutos, separados por pequenos intervalos, por exemplo de no mínimo 5 minutos ou mais se for necessário. Dessa forma o método se baseia na ideia de que pausas frequentes podem aumentar a agilidade mental, resultando em um melhor desempenho no que está sendo feito. O nome da técnica deriva da palavra italiana pomodoro (tomate), como referência ao popular cronômetro gastronômico na forma dessa fruta.
+
 
 O resultado da aplicação pode ser acessado através da seguinte URL: [https://nlw-04-moveit-next-js.vercel.app/](https://nlw-04-moveit-next-js.vercel.app/)
 
@@ -33,21 +38,22 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 - Javascript
-- [ReactJS](https://pt-br.reactjs.org/)
+- [ReactJS](https://reactjs.org/)
 - [NextJS](https://nextjs.org/)
-- typeScript
+- [TypeScript](https://www.typescriptlang.org/)
 
 ## 🎨 Layout
 
 ### 💻 Web 
 
-<!-- <p align="center">
-  <img alt="covid19_react_page_web" title="covid19_react_page_web" src="img/onePiece_quiz_tela_desktop.png" width="800px">
-</p> -->
+<p align="center">
+  <img alt="Move.it web" title="Move.it web" src="public/moveit_tela01.png" width="800px">
+  <img alt="Move.it web" title="Move.it web" src="public/moveit_tela02.png" width="800px">
+</p>
 
-### 📱 Mobile 
+<!-- ### 📱 Mobile  -->
 <!-- <p align="center">
-  <img alt="Happy Web" title="Happy Web" src="img/onePiece_quiz_tela_mobile.png" width="250px">
+  <img alt="Move.it mobile" title="Move.it mobile" src="img/onePiece_quiz_tela_mobile.png" width="250px">
 </p> -->
 
 ## 💻 Executando a aplicação
@@ -66,23 +72,27 @@ Instale as dependências
 
 ```bash
 
-$ yarn install
+# Com yarn
+$ yarn
 
 # ou pelo npm
 $ npm install
 
 ```
 
-Execute a aplicação
+Execute a aplicação (inicie o servidor)
 
 ```bash
 
+# Com yarn
 $ yarn dev
 
 # ou pelo npm
 $ npm run dev
 
 ```
+Agora acesse **localhost:3000** no seu navegador.
+
 ## :gear: Contribuição
 
 Para contribuir com esse projeto faça os seguintes passos:
