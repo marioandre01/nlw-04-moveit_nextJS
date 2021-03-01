@@ -35,11 +35,8 @@ O resultado da aplicação pode ser acessado através da seguinte URL: [https://
 
 O projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML
-- CSS
-- Javascript
-- [ReactJS](https://reactjs.org/)
-- [NextJS](https://nextjs.org/)
+- [React](https://reactjs.org/)
+- [Next.JS](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 
 ## 🎨 Layout
